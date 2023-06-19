@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to top, #209cff 0%, #68e0cf 100%);
+    height:max-content
+}
+h1{
+    background-color: white;
+    font-weight: bold;
+    margin-top: 3rem !important;
+    border-radius: 10px;
+}
+img{
+    height: 400px !important;
+    width: 100%;
+    border-radius: 10px;
+}
+span{
+    display: none;
+}
